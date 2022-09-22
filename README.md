@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+this is a twitter clone with firebase as the backend 
+user can tweet 
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
